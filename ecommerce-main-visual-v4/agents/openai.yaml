@@ -1,0 +1,6 @@
+interface:
+  display_name: "电商主视觉 V4 / E-commerce KV V4"
+  short_description: "分阶段共创、双语适配与验收 / Staged co-design, localization & QA"
+  default_prompt: "使用 $ecommerce-main-visual-v4 分阶段共创并核验电商主视觉。 / Use $ecommerce-main-visual-v4 to co-design an e-commerce key visual in stages with verifiable QA."
+policy:
+  allow_implicit_invocation: true
